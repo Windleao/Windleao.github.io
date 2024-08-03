@@ -5,7 +5,7 @@ date: 2024-08-03 19:08:25
 tags:
 ---
 
-## 记账软件 Money Mgr.
+## 记账软件 Money Mgr
 
 从2020年开始就采用Money Mgr.进行财务记账
 
@@ -20,5 +20,3 @@ tags:
 andrid Googlepay 没有找到兑换码购买渠道
 
 以后在完善
-
-
