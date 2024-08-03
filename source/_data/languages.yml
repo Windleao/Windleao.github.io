@@ -1,0 +1,9 @@
+# 将要覆盖的语言
+en:
+  site:
+    title: Site Information
+
+zh-Hans:
+  site:
+    title: 本站信息
+# 您也可以扩展其他语言
