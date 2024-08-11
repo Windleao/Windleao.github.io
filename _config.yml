@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: leao8377@hotmail.com
 description: "Every failure is leading towards success."
 keyword: "WL, WL Blog, 凌渡的博客, iOS, Apple, iPhone"
-url: "http://Windleao.github.io",          # your host, for absolute URL
+url: "http://Windleao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -56,7 +56,7 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
+# Disqus（https://disqus.com/）
 disqus_username: lingdufeng
 
 # Gitalk
