@@ -3,11 +3,11 @@ title: WindLeao Blog
 SEOTitle: 凌渡的博客 | WL Blog
 header-img: img/post-bg-desk.jpg
 email: leao8377@hotmail.com
-description: "Every failure is leading towards success."
+description: "你是什么样的人，便会遇到什么样的人；你想遇到什么样的人，就得先让自己成为那样的人。"
 keyword: "WL, WL Blog, 凌渡的博客, iOS, Apple, iPhone"
 url: "http://Windleao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Windleao/Windleao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
