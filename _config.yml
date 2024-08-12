@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: true
-weibo_username:     劳逸峰
+weibo_username:     风Ling渡
 # zhihu_username:     qiubaiying
 github_username:    Windleao
 # facebook_username:  baiying.qiu.7
@@ -67,6 +67,7 @@ gitalk:
   repo: Windleao.github.io    #仓库名称
   owner: Windleao    #github用户名
   admin: Windleao
+  id: location.pathname,      // Ensure uniqueness and length less than 50 唯一值，如果和其他页面一样，则两个页面显示的评论都一样
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
