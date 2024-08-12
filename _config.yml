@@ -11,13 +11,13 @@ github_repo: "https://github.com/Windleao/Windleao.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "不羡他人金缕衣，惟愿流年万事顺。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     劳逸峰
 # zhihu_username:     qiubaiying
 github_username:    Windleao
