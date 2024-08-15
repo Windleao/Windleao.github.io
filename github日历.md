@@ -1,1 +1,1 @@
-<img src="https://ghchart.rshah.org/Winleao" alt="Windleao's Github chart" />
+![constown's Github chart](https://ghchart.rshah.org/Windleao)
