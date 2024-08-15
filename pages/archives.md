@@ -4,7 +4,7 @@ title: "Archives"
 description: "冬无愆阳，夏无伏阴，春无凄风，秋无苦雨"
 header-img: "img/archives-bg-dm.jpg"
 ---
-
+<img src="https://ghchart.rshah.org/windleao"/>
 <ul>
     {% for post in site.posts %}
 
