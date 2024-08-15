@@ -6,6 +6,7 @@ header-img: "img/archives-bg-dm.jpg"
 ---
 
 <ul>
+    ![Windleao's Github chart](https://ghchart.rshah.org/Windleao)
     {% for post in site.posts %}
 
     {% unless post.next %}

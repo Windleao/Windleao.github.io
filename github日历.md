@@ -1,1 +1,0 @@
-![Windleao's Github chart](https://ghchart.rshah.org/Windleao)
